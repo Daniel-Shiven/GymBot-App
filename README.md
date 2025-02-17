@@ -16,8 +16,7 @@ git config user.email a@gmail.com
 git config user.name your_username
 ```
 
-If you don't have PNPM installed, but you do have NPM, run the following to install
-PNPM via NPM:
+If you don't have PNPM you can install it:
 
 ```sh
 npm i -g pnpm
@@ -30,15 +29,6 @@ To install Git on Windows:
 - Go to the Git Section of VS Code and select Download Git for Windows
   ![image](https://github.com/GymBotAI/App/assets/94528565/4707d973-ab8a-4ba6-bb21-bd87c6b8690f)
 - Begin setup and be sure to select Windows Console when prompted
-
-## Installation
-
-First, clone the Git repository:
-
-```sh
-git clone https://github.com/GymBotAI/App.git
-cd App
-```
 
 ## Usage
 
