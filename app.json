@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "gymbot",
+    "slug": "gymbot",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/GymBotLogo.png",
+    "userInterfaceStyle": "light",
+    "scheme": "com.gymbotai.gymbot",
+    "splash": {
+      "image": "./assets/GymBotLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1360dd"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gymbotai.gymbot"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/GymBotLogo.png",
+        "backgroundColor": "#1360dd"
+      },
+      "package": "com.gymbotai.gymbot"
+    },
+    "web": {
+      "favicon": "./assets/GymBotLogo.png"
+    }
+  }
+}
