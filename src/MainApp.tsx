@@ -10,6 +10,8 @@ import Home from "$screens/bottom-tabs/Home";
 import Plans from "$screens/bottom-tabs/Plans";
 import Workouts from "$screens/bottom-tabs/Workouts";
 
+//May return to this soon
+
 // Icons
 import { FontAwesome5 } from "@expo/vector-icons";
 
